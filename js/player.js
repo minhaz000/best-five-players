@@ -39,7 +39,6 @@ function getPlayerExpense(){
    }
    else{
        alert("You need to input POSITIVE and NUMBER Type value !!! ")
-       
    }}
 
 
