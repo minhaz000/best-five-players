@@ -43,7 +43,6 @@ function getPlayerExpense(){
    }}
 
 
-
 // Get The Player Expense By eventHandeler 
 document.getElementById('Calculate').addEventListener('click', getPlayerExpense) 
 
